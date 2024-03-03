@@ -1,0 +1,32 @@
+p4{
+    color: rgb(242, 238, 245);
+    padding-left:250px;
+   
+    font-size: 55px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+body{
+    background-color: white;
+    border: 20px solid #ded2d2; 
+   
+    background-image: url('https://t3.ftcdn.net/jpg/03/91/46/10/360_F_391461057_5P0BOWl4lY442Zoo9rzEeJU0S2c1WDZR.jpg');
+}
+p{
+    color: rgb(244, 238, 249);
+    padding-left:575px;
+    padding-top:100px;
+    top:600px;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p5{
+    color: rgb(244, 238, 249);
+    
+    padding-top:50px;
+    top:600px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
